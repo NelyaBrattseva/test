@@ -3,7 +3,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class LaunchApplication {
     public static void main(String[] args) {
-//               method1();
+        method1();
         method2();
 
     }
